@@ -1,0 +1,14 @@
+
+FinApp_crossplatform/FinApp_crossplatform/bin/
+
+FinApp_crossplatform/FinApp_crossplatform/obj/
+
+FinApp_crossplatform/FinApp_crossplatform\.Android/bin/
+
+FinApp_crossplatform/FinApp_crossplatform\.Android/obj/
+
+FinApp_crossplatform/FinApp_crossplatform\.iOS/obj/
+
+FinApp_crossplatform/FinApp_crossplatform\.UWP/bin/
+
+FinApp_crossplatform/FinApp_crossplatform\.UWP/obj/
